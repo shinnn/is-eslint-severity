@@ -28,7 +28,7 @@
     "warn"
   ],
   "dependencies": {
-    "eslint": "eslint/eslint#d1cf846dc3a5cd08f7b529b846994dd2ae25cfc5"
+    "eslint": "^2.4.0"
   },
   "devDependencies": {
     "@shinnn/eslint-config-node-legacy": "^2.0.0",
