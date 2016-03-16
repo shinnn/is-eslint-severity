@@ -4,7 +4,7 @@
 */
 'use strict';
 
-var CLIEngine = require('eslint').CLIEngine;
+const CLIEngine = require('eslint').CLIEngine;
 
 function createTempCli(severity) {
   new CLIEngine({
