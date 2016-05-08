@@ -1,6 +1,6 @@
 {
   "name": "is-eslint-severity",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "Check if a given value is one of the ESLint severity level specifiers",
   "repository": "shinnn/is-eslint-severity",
   "author": "Shinnosuke Watanabe (https://github.com/shinnn)",
@@ -28,11 +28,11 @@
     "warn"
   ],
   "dependencies": {
-    "eslint": "^2.4.0"
+    "eslint": "^2.9.0"
   },
   "devDependencies": {
     "@shinnn/eslint-config-node": "^2.0.0",
-    "istanbul": "^0.4.2",
+    "istanbul": "^0.4.3",
     "tape": "^4.5.1"
   }
 }
