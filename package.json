@@ -1,6 +1,6 @@
 {
   "name": "is-eslint-severity",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check if a given value is one of the ESLint severity level specifiers",
   "repository": "shinnn/is-eslint-severity",
   "author": "Shinnosuke Watanabe (https://github.com/shinnn)",
