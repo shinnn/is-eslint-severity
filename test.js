@@ -1,4 +1,4 @@
-'use strong';
+'use strict';
 
 const isEslintSeverity = require('.');
 const test = require('tape');
